@@ -56,33 +56,20 @@
 
 ### 📊 GitHub 统计
 
-<!-- 基础统计 -->
-<img src="https://xxh11432.github.io/github-metrics/base.svg" alt="GitHub 基础统计" />
+<div align="center">
 
-<!-- 全年提交日历 -->
-<img src="https://xxh11432.github.io/github-metrics/isocalendar.fullyear.svg" alt="提交日历" />
+<!-- 统计卡片（实时数据） -->
+<img src="https://github-readme-stats.vercel.app/api?username=xxh11432&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub 统计" />
 
-<!-- 提交习惯 -->
-<img src="https://xxh11432.github.io/github-metrics/habits.charts.svg" alt="提交习惯" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxh11432&layout=compact&theme=transparent&hide_border=true" alt="常用语言" />
 
-<!-- 3D 贡献图 -->
-<img src="https://xxh11432.github.io/profile-3d-contrib/profile-green.svg" alt="3D 贡献图" />
+<img src="https://streak-stats.demolab.com/?user=xxh11432&theme=transparent&hide_border=true" alt="连续打卡" />
 
-<!-- 贪吃蛇贡献图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://xxh11432.github.io/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://xxh11432.github.io/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://xxh11432.github.io/profile-snake-contrib/github-contribution-grid-snake.svg" />
-</picture>
+</div>
 
 <img width="200%" src="https://xxh11432.github.io/assets/images/hr.gif" />
 
 <div align="center">
-
-<!-- 赞助 / 横幅 -->
-<img src="https://xxh11432.github.io/sponsors.png" alt="sponsors" />
-
-<div>&nbsp;</div>
 
 <img width="36%" src="https://xxh11432.github.io/assets/images/githubgif.gif" alt="github" />
 
