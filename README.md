@@ -31,7 +31,14 @@
 
 </div>
 
-<img width="200%" src="https://xxh11432.github.io/assets/images/hr.gif" />
+### 🚀 开源项目
+
+<div align="center">
+
+<!-- 开源项目卡片 -->
+<a href="https://github.com/xxh11432/GitStarts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xxh11432&repo=GitStarts&theme=transparent&hide_border=true" alt="GitStarts" /></a><a href="https://github.com/xxh11432/code-review-skill"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xxh11432&repo=code-review-skill&theme=transparent&hide_border=true" alt="code-review-skill" /></a>
+
+</div>
 
 ### 🛠️ 技术栈
 
