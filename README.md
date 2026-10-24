@@ -35,8 +35,26 @@
 
 <div align="center">
 
-<!-- 开源项目卡片 -->
-<a href="https://github.com/xxh11432/GitStarts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xxh11432&repo=GitStarts&theme=transparent&hide_border=true" alt="GitStarts" /></a><a href="https://github.com/xxh11432/code-review-skill"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xxh11432&repo=code-review-skill&theme=transparent&hide_border=true" alt="code-review-skill" /></a>
+<table>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/xxh11432/GitStarts"><b>⭐ GitStarts</b></a>
+      <br/>
+      GitHub 明星仓库排行，追踪热门项目动态
+      <br/>
+      <img src="https://img.shields.io/github/stars/xxh11432/GitStarts?style=flat-square&color=yellow&logo=github" alt="stars" />
+      <img src="https://img.shields.io/github/languages/top/xxh11432/GitStarts?style=flat-square" alt="language" />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/xxh11432/code-review-skill"><b>🔍 code-review-skill</b></a>
+      <br/>
+      面向 AI 编程助手的结构化代码审查技能
+      <br/>
+      <img src="https://img.shields.io/github/stars/xxh11432/code-review-skill?style=flat-square&color=yellow&logo=github" alt="stars" />
+      <img src="https://img.shields.io/github/languages/top/xxh11432/code-review-skill?style=flat-square" alt="language" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
