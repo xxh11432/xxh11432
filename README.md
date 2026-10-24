@@ -1,18 +1,3 @@
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://xxh11432.github.io/assets/images/coding.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://xxh11432.github.io/assets/images/developer.svg" height="225px" />
-  <img src="https://xxh11432.github.io/assets/images/coding.gif" />
-</picture>
-
-<div>&nbsp;</div>
-
-<!-- 访问量统计 -->
-<img src="https://komarev.com/ghpvc/?username=xxh11432&label=Views&color=orange&style=flat" alt="访问量统计" />
-
-</div>
-
 #  🙋 Hello
 
 ### 🤺 About Me
@@ -28,6 +13,23 @@
 &emsp;&emsp;**We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.**
 
 <img width="200%" src="https://xxh11432.github.io/assets/images/hr.gif" />
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://xxh11432.github.io/assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://xxh11432.github.io/assets/images/developer.svg" height="225px" />
+  <img src="https://xxh11432.github.io/assets/images/coding.gif" />
+</picture>
+
+<div>&nbsp;</div>
+
+<!-- 数据统计 -->
+<img src="https://komarev.com/ghpvc/?username=xxh11432&label=Views&color=orange&style=flat" alt="访问量统计" />
+<img src="https://img.shields.io/github/followers/xxh11432?label=Followers&style=flat&logo=github&color=orange" alt="Followers" />
+<img src="https://img.shields.io/github/stars/xxh11432?label=Stars&style=flat&logo=github&color=yellow" alt="Stars" />
+
+</div>
 
 ### 🛠️ 技术栈
 
@@ -47,10 +49,7 @@
 <img src="https://skillicons.dev/icons?i=java,spring,redis,mysql,idea,git,nginx,docker,linux" />
 
 <!-- techstack-generator 动态图标 -->
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 
 <img width="200%" src="https://xxh11432.github.io/assets/images/hr.gif" />
 
