@@ -31,6 +31,8 @@
 
 </div>
 
+<img width="200%" src="https://xxh11432.github.io/assets/images/hr.gif" />
+
 ### 🛠️ 技术栈
 
 <!-- 后端技术徽章 -->
