@@ -65,6 +65,16 @@
 
 <img src="https://streak-stats.demolab.com/?user=xxh11432&theme=transparent&hide_border=true" alt="连续打卡" />
 
+<!-- 3D 贡献图 -->
+<img src="./profile-3d-contrib/profile-green.svg" alt="3D 贡献图" />
+
+<!-- 贪吃蛇贡献图 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="./profile-snake-contrib/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 <img width="200%" src="https://xxh11432.github.io/assets/images/hr.gif" />
